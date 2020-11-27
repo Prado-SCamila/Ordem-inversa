@@ -1,0 +1,13 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\bin\Debug\netcoreapp3.1\Ordem-inversa.exe
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\bin\Debug\netcoreapp3.1\Ordem-inversa.deps.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\bin\Debug\netcoreapp3.1\Ordem-inversa.runtimeconfig.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\bin\Debug\netcoreapp3.1\Ordem-inversa.runtimeconfig.dev.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\bin\Debug\netcoreapp3.1\Ordem-inversa.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\bin\Debug\netcoreapp3.1\Ordem-inversa.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\obj\Debug\netcoreapp3.1\Ordem-inversa.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\obj\Debug\netcoreapp3.1\Ordem-inversa.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\obj\Debug\netcoreapp3.1\Ordem-inversa.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\obj\Debug\netcoreapp3.1\Ordem-inversa.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\obj\Debug\netcoreapp3.1\Ordem-inversa.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\obj\Debug\netcoreapp3.1\Ordem-inversa.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Ordem inversa\Ordem-inversa\obj\Debug\netcoreapp3.1\Ordem-inversa.genruntimeconfig.cache
